@@ -1,0 +1,12 @@
+{
+  "name": "exymax/mastering_patterns",
+  "description": "A project dedicated to investigating how design patterns work",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Vladimir Levenko",
+      "email": "exymax@gmail.com"
+    }
+  ]
+}
